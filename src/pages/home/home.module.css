@@ -1,0 +1,21 @@
+.home_page_wrapper {
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-image:  url('../../assets/home-background.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.home_page_title {
+    font-family: "Rajdhani", sans-serif;
+    padding: 10px;
+    color: var(--secendary-color);
+    font-size: 80px;
+    font-weight: 800;
+    border-radius: 2px;
+    margin-bottom: 240px;
+}

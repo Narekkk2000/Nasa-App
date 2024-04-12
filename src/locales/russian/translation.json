@@ -1,0 +1,29 @@
+{
+    "translation": {
+        "homePageTitle": "Исследуйте нашу Вселенную",
+        "submitButton": "Подтвердить",
+        "navLinks": {
+            "astronomyPhoto": "Астрономическое Фото Дня",
+            "nearbyAsteroids": "Ближайшие Астероиды",
+            "submitNewPlanet": "Подтвердить Новую Планету"
+        },
+        "nearbyAsteroidsInfo": {
+            "title": "Поиск астероидов по дате их наибольшего сближения c Землей",
+            "text": "Вы можете выбрать максимальный диапазон 7 дней.",
+            "startDateText": "Начальная Дата:",
+            "endDateText": "Конечная Дата:",
+            "errorMessage": "Интервал превышает 7 дней"
+        },
+        "newPlanet": {
+            "title": "Если вы нашли новую планету, вы можете добавить ee в наш каталог (демо реактивных форм)",
+            "placeholders": {
+                "planetName": "Название Планеты",
+                "galaxyName": "Название Галактики",
+                "diameter": "Диаметр (км)",
+                "distance": "Дистанция (км)",
+                "yourName": "Ваше Имя",
+                "email": "Email"
+            }
+        }
+    }
+}

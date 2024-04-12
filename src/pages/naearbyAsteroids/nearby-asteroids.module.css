@@ -1,0 +1,42 @@
+.nearby_asteroids_wrapper {
+  width: 80%;
+  padding: 20px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.submit_dates_field {
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.date_inputs_wrapper {
+  width: fit-content;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.nearby_asteroids_info_field {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.nearby_asteroid_title {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.nearby_asteroid_description {
+    font-size: 19px;
+    font-weight: 300;
+}

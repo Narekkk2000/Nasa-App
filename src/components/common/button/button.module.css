@@ -1,0 +1,15 @@
+.shared_button {
+  cursor: pointer;
+  background-color: var(--secondaryColor);
+  padding: 4px 12px;
+  font-family: "Oswald", sans-serif;
+  font-size: 19px;
+  color: var(--primaryColor);
+  border-radius: 4px;
+  transition: 200ms;
+}
+
+.shared_button:hover {
+  background-color: var(--primaryColor); 
+   color: var(--secondaryColor);
+}

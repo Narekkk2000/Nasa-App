@@ -1,0 +1,34 @@
+.astronomyPhotoPageWrapper {
+  width: 80%;
+  padding: 20px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+
+.submit_field {
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.astronomy_photo_wrapper {
+  width: 58%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: var(--primary-color);
+}
+
+.photo_explanation {
+  font-size: 20px;
+}
+

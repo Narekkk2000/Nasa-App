@@ -1,0 +1,22 @@
+.shared_input {
+  width: 300px;
+  padding: 4px 12px;
+  font-size: 17px;
+  font-family: "Oswald", sans-serif;
+  font-weight: 500;
+  border: 2px solid;
+  border-radius: 6px;
+}
+.shared_input_date {
+  padding: 4px;
+  font-size: 14px;
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
+  border: 1px solid;
+  border-radius: 3px;
+}
+
+.error_message {
+  color: red;
+  font-size: 14px;
+}

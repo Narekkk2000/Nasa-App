@@ -1,0 +1,34 @@
+header {
+  background-color: var(--primary-color);
+  padding: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+}
+nav {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px;
+}
+nav .menu_list {
+  display: flex;
+  gap: 1rem;
+}
+
+@media (max-width: 850px) {
+  header {
+    flex-direction: column;
+    gap: 20px;
+  }
+}
+
+@media (max-width: 700px) {
+  nav {
+    align-items: center;
+  }
+  nav .menu_list {
+    flex-direction: column;
+  }
+}

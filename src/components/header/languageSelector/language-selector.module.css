@@ -1,0 +1,22 @@
+.lng_btns_wrapper {
+    width: fit-content;
+    padding: 0px 12px;
+    display: flex;
+    gap: 20px;
+}
+
+.default {
+    cursor: pointer;
+    font-size: 15px;
+    background-color: transparent;
+    color: #d83933;
+    font-family: "Oswald", sans-serif;
+}
+
+.selected {
+    cursor: pointer;
+    font-size: 15px;
+    background-color: transparent;
+    color: var(--secendary-color);
+    font-family: "Oswald", sans-serif;
+}

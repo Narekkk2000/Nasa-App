@@ -1,0 +1,29 @@
+{
+    "translation": {
+        "homePageTitle": "Browse Our Universe",
+        "submitButton": "Submit",
+        "navLinks": {
+            "astronomyPhoto": "Astronomy Photo Of The Day",
+            "nearbyAsteroids": "Nearby Asteroids",
+            "submitNewPlanet": "Submit New Planet"
+        },
+        "nearbyAsteroidsInfo": {
+            "title": "Search for Asteroids based on their closest approach date to Earth",
+            "text": "You could select the range maximum for 7 days",
+            "startDateText": "startDate",
+            "endDateText": "endDate",
+            "errorMessage": "Range is bigger then 7"
+        },
+        "newPlanet": {
+            "title": "If you find a new planet, you can add it to our catalog (reactive forms demo)",
+            "placeholders": {
+                "planetName": "Planet Name",
+                "galaxyName": "Galaxy Name",
+                "diameter": "Diameter (km)",
+                "distance": "Distance (km)",
+                "yourName": "Your Name",
+                "email": "Email"
+            }
+        }
+    }
+}

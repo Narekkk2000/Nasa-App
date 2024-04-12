@@ -1,0 +1,18 @@
+.item_link {
+  font-size: 1.3rem;
+  padding: 12px;
+  background-color: var(--primary-color);
+  color: var(--secendary-color);
+  border-radius: 4px;
+  transition: 200ms;
+}
+
+.item_link:hover {
+  background-color: var(--secendary-color);
+  color: var(--primary-color);
+}
+
+.item_link.active {
+  background-color: var(--secendary-color);
+  color: var(--primary-color);
+}
